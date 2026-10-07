@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-07T08:50:42.921Z",
+  "profile": {
+    "name": "alaskariannet",
+    "subtitle": "حسابات العتبة العسكرية المقدسة"
+  },
+  "appearance": {
+    "background": "shrine",
+    "color": "#153f35",
+    "buttonStyle": "rounded",
+    "animation": true
+  },
+  "links": [
+    {
+      "id": "facebook",
+      "platform": "facebook",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/alaskariannet/",
+      "visible": true
+    },
+    {
+      "id": "instagram",
+      "platform": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/alaskariannet/?hl=ar",
+      "visible": true
+    },
+    {
+      "id": "telegram",
+      "platform": "telegram",
+      "label": "Telegram",
+      "url": "https://t.me/alaskrain",
+      "visible": true
+    },
+    {
+      "id": "youtube",
+      "platform": "youtube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@alaskariannet",
+      "visible": true
+    },
+    {
+      "id": "tiktok",
+      "platform": "tiktok",
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@alaskariannet",
+      "visible": true
+    },
+    {
+      "id": "twitter",
+      "platform": "twitter",
+      "label": "Twitter / X",
+      "url": "https://x.com/alaskariannet",
+      "visible": true
+    },
+    {
+      "id": "website",
+      "platform": "website",
+      "label": "Website",
+      "url": "https://alaskarian.net/",
+      "visible": true
+    }
+  ]
+}
